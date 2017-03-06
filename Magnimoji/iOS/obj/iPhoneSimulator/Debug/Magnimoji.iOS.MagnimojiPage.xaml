@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Magnimoji" x:Class="Magnimoji.MagnimojiPage">
+
+	<StackLayout Padding="30,0,30,0" BackgroundColor="#8E0FFF">
+
+		<Label x:Name="emoji" Text="?" HorizontalOptions="Center" FontSize="200"/>
+
+		<Entry x:Name="MyEntry" Placeholder="Enter symbol"/>
+
+	</StackLayout>
+	
+</ContentPage>

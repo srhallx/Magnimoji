@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7E2A71D5-2B36-4A2E-8734-AE4F2D5ED1F4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Magnimoji.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.942137C5-089A-487A-A6EA-9C879A5AD974" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Magnimoji/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Magnimoji/MagnimojiPage.xaml.cs" Line="16" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
